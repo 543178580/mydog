@@ -1,1 +1,1 @@
-print("wo shi zui shuai de")
+print("wo shi zui shuai de 1")
