@@ -1,1 +1,1 @@
-print("1111111111111111111111)
+print("wo shi zui shuai de")
